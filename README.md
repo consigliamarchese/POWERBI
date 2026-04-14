@@ -1,5 +1,8 @@
 📊 Olist E-commerce BI Analysis
 
+
+LINK PER SCARICARE IL REPORT: https://drive.google.com/file/d/1xnG5NO_C8BUK79jSovLzSonBcHX0yc6i/view?usp=sharing
+
 Progetto di Business Intelligence basato sul dataset pubblico di Olist, relativo agli ordini (2016–2018) di seller operanti nei marketplace brasiliani.
 
 L’obiettivo è la realizzazione di un report interattivo per analizzare:
